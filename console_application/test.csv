@@ -1,0 +1,10 @@
+RollNo, Name, Course, Fee, Payment,Remaining
+
+1, Pradip, Django,20000,1000,19000
+
+2, Shyam, HTML,20000,10000,10000
+
+3, Hari, Python,20000,19000,1000
+
+4,john,js,20000,20000,0
+
